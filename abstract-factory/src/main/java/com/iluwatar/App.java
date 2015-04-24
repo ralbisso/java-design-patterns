@@ -13,7 +13,7 @@ package com.iluwatar;
 public class App {
 
 	public static void main(String[] args) {
-		createKingdom(ne ElfKingdomFactory())
+		createKingdom(new ElfKingdomFactory());
 		createKingdom(new OrcKingdomFactory());
 	}
 
